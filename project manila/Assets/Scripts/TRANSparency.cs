@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TRANSparency : MonoBehaviour //i cant take it anymore
+public class transparency : MonoBehaviour
 {
     public KeyCode click = KeyCode.Mouse0, rClick = KeyCode.Mouse1;
     public SpriteRenderer SpriteRenderer;

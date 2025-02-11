@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class position : MonoBehaviour
+public class enemyPos : MonoBehaviour
 {
     // Start is called before the first frame update
     //public GameObject GameObject;
